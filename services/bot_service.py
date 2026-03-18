@@ -1,1 +1,2 @@
-
+def responder():
+    return "ok"
